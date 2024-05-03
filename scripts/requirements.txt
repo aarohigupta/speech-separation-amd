@@ -1,0 +1,5 @@
+numba==0.58.1
+numpy==1.24.4
+librosa
+audioread
+smart_open
